@@ -228,7 +228,7 @@ body{
     height: 100%;
     width: 100%;
   }
-  .fa-globe{
+  .navdrop-down i {
     display: none;
   }
   .navdrop-down{
